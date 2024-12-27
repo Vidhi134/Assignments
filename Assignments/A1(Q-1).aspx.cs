@@ -13,5 +13,10 @@ namespace Assignments
         {
 
         }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            string name = TextBox1.Text; Label2.Text = "Welcome, " + name + "!";
+        }
     }
 }
