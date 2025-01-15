@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>Quote.jpg</ImageUrl>
+		<NavigateUrl>https://parade.com/937586/parade/life-quotes/</NavigateUrl>
+		<AlternateText>Ad 1</AlternateText>
+		<Keyword>AdCategory1</Keyword>
+		<Impressions>50</Impressions>
+	</Ad>
+	
+</Advertisements>
